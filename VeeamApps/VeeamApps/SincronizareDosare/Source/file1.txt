@@ -1,0 +1,2 @@
+﻿Acesta este conținutul fișierului 1.
+Test de sincronizare a dosarelor.
